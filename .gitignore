@@ -133,5 +133,8 @@ dmypy.json
 
 # Ignore data directories
 */data*
+*artifacts*
 */artifacts/tensorboard*
 */artifacts/checkpoints*
+*/artifacts/training_checkpoints*
+*/artifacts/logs*
